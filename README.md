@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/3406bd13-0537-4774-9598-00ce8b2a2619)
+
 # Proyecto Final - Ética y Seguridad de Datos 
 ---
 ## Parte 1: Privacidad 
