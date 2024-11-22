@@ -125,7 +125,7 @@ A pesar de las medidas implementadas, existen riesgos residuales asociados a la 
 - **Revisión de Políticas de Privacidad**: Asegurarse de que las políticas de privacidad y protección de datos sean revisadas y actualizadas con regularidad para cumplir con las leyes y regulaciones aplicables (como el RGPD).
 
 ---
-### B. Reflexiones sobre los temas éticos para SalaryBoost
+### B. Reflexiones Éticas en el Contexto de SalaryBoos
 **1. Sesgo Algorítmico**: El sesgo algorítmico ocurre cuando un sistema automatizado toma decisiones que reflejan prejuicios o injusticias en función de los datos en los que fue entrenado. En el caso de Salaryboost, una plataforma que podría utilizar algoritmos para prever el salario potencial de un individuo en función de su formación, experiencia, habilidades y otros factores, es crucial identificar y mitigar cualquier sesgo en el algoritmo que pueda perpetuar desigualdades preexistentes.
 
 Posibles fuentes de sesgo:
